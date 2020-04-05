@@ -72,7 +72,7 @@ public class BrainwaveJava extends Application {
 
         //creating the line chart with two axis created above
         final LineChart<String, Number> LineChart = new LineChart<>(xAxis, yAxis);
-        LineChart.setTitle("Brainwave Readings");
+        LineChart.setTitle("Brainwaves");
         LineChart.setAnimated(false); // disable animations
 
         //defining a seriesAttention to display data
@@ -119,7 +119,7 @@ public class BrainwaveJava extends Application {
         rootMain = new Group(vbox);
         Scene scene = new Scene(rootMain, WIDTH, HEIGHT, true, SceneAntialiasing.BALANCED);
         primaryStage.setScene(scene);
-        primaryStage.setTitle("Brain Wave Reader");
+        primaryStage.setTitle("Brainwave Project");
         primaryStage.show();
 
         loadSerialPorts(); //initial port load

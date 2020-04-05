@@ -2,7 +2,6 @@
 #define LED 13
 #define BAUDRATE 57600
 #define DEBUGOUTPUT 0
-
 #define powercontrol 10
 
 // checksum variables
@@ -18,8 +17,6 @@ byte meditation = 0;
 // system variables
 long lastReceivedPacket = 0;
 boolean bigPacket = false;
-
-
 
 
 String addLeadingZeros(int number) //Add leading zeros so every number sent will always be 3 digits long for consistency
