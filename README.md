@@ -1,4 +1,3 @@
-Under construction
 # BrainWaveProject
 
 ![Results](/images/graph.gif?raw=true "")
@@ -10,13 +9,13 @@ The project can detect two types of brain waves. How hard a person is concentrat
 
 
 ## Uses
-There already exists commercial headsets with this technology being created for products such as games and meditation devices. I wanted to create my own for much less and also develop my own software that graphs the brainwaves. In the future I could develop much more sophisticated applications with the device.
+There already exists commercial headsets with this technology being created for products such as games and meditation devices. I wanted to create my own for much less and also develop my own software that graphs the brainwaves. In the future I could develop much more sophisticated applications with the device if needed.
 
 
 ### Prerequisites
 
 * [Java](https://www.java.com) - Java Runtime Environment
-* [Arduino](https://www.arduino.cc/) - Arduino Mega Microcontroller
+* [Arduino](https://www.arduino.cc/) - Arduino Uno Microcontroller
 * [TGAM1(UART)](https://store.neurosky.com/products/eeg-tgam) - Neurosky TGAM1
 * [jSerialComm-2.5.1](https://fazecast.github.io/jSerialComm/) - Arduino Serial Communication Library for Java
 * [Dry Electrodes x 3] - I found them locally in a random store but I assume most electrodes would work
