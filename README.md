@@ -1,7 +1,7 @@
 Under construction
 # BrainWaveProject
 
-![Results](/screenshots/graph.gif?raw=true "")
+![Results](/images/graph.gif?raw=true "")
 
 ## How It Works
 The Arduino takes readings from the Neurosky TGAM1 chip that are attached to electrodes contacting with a person's head. It parses the readings into integer values that we can send to our computer through USB serial. On the Java's side, we 
@@ -26,10 +26,10 @@ The Arduino takes readings from the Neurosky TGAM1 chip that are attached to ele
 
 ![Schematic](/screenshots/schematic.png?raw=true "")
 
-## Screenshots
+## Images
 
-![The Hardware](/screenshots/hardware.png?raw=true "")
-![The Software](/screenshots/graph.png?raw=true "")
+![The Hardware](/images/hardware.png?raw=true "")
+![The Software](/images/graph.png?raw=true "")
 
 
 ## Authors
