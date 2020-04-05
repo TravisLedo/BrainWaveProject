@@ -16,7 +16,7 @@ There already exists commercial headsets with this technology being created for 
 
 * [Java](https://www.java.com) - Java Runtime Environment
 * [Arduino](https://www.arduino.cc/) - Arduino Uno Microcontroller
-* [TGAM1(UART)](https://store.neurosky.com/products/eeg-tgam) - Neurosky TGAM1
+* [TGAM1](https://store.neurosky.com/products/eeg-tgam) - Neurosky TGAM1
 * [jSerialComm-2.5.1](https://fazecast.github.io/jSerialComm/) - Arduino Serial Communication Library for Java
 * [Dry Electrodes x 3] - I found them locally in a random store but I assume most electrodes would work
 
