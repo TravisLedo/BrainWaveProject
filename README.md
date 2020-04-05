@@ -4,7 +4,13 @@ Under construction
 ![Results](/images/graph.gif?raw=true "")
 
 ## How It Works
-The Arduino takes readings from the Neurosky TGAM1 chip that are attached to electrodes contacting with a person's head. It parses the readings into integer values that we can send to our computer through USB serial. On the Java's side, we 
+The Arduino takes readings from the Neurosky TGAM1 chip that are attached to electrodes contacting with a person's head. It parses the readings into integer values that we can send to our computer through USB serial. On the Java's side, we take that data and graph in real time.
+
+The project can detect two types of brain waves. How hard a person is concentrating and also how clear their mind is from a meditative state.
+
+
+## Uses
+There already exists commercial headsets with this technology being created for products such as games and meditation devices. I wanted to create my own for much less and also develop my own software that graphs the brainwaves. In the future I could develop much more sophisticated applications with the device.
 
 
 ### Prerequisites
@@ -21,10 +27,6 @@ The Arduino takes readings from the Neurosky TGAM1 chip that are attached to ele
 * [Netbeans](https://netbeans.org/) - Java IDE
 * [Arduino](https://https://www.arduino.cc/) - Arduino IDE
 
-
-## Schematic
-
-![Schematic](/screenshots/schematic.png?raw=true "")
 
 ## Images
 
